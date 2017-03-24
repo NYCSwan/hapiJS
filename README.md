@@ -35,3 +35,4 @@ The app will be served at `http://localhost:4200`.
 ## License
 
 MIT
+
